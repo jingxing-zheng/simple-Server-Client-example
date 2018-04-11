@@ -1,0 +1,9 @@
+C:\Users\mingtian\Desktop\client\client\bin\Debug\client.exe.config
+C:\Users\mingtian\Desktop\client\client\bin\Debug\client.exe
+C:\Users\mingtian\Desktop\client\client\bin\Debug\client.pdb
+C:\Users\mingtian\Desktop\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\mingtian\Desktop\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\mingtian\Desktop\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\mingtian\Desktop\client\client\obj\Debug\client.exe
+C:\Users\mingtian\Desktop\client\client\obj\Debug\client.pdb
+C:\Users\mingtian\Desktop\client\client\obj\Debug\client.client.resources
